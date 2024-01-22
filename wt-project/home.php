@@ -25,7 +25,7 @@ session_start();
     <div class="conteiner" id="home">
       <img src="./assets/asset 24.jpeg" alt="" />
       <header class="d-flex flex-row">
-        <a href="http://localhost/wt_project/home.php">
+        <a href="home.php">
           <div class="logo">
             <img src="./assets/asset 0.png" alt="" />
           </div>
